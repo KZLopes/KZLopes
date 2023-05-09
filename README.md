@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Carlos</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🌱 Estou aprendendo **Typescript e SQL**
+- 🌱 Estou aprendendo **Java e SQL**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://carloslopes.netlify.app/](https://carloslopes.netlify.app/)
 
