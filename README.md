@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Carlos</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🌱 Estou aprendendo **Java e SQL**
+- 🌱 Estou aprendendo **Go**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://carloslopes.netlify.app/](https://carloslopes.netlify.app/)
 
-- 💬 Me pergunte sobre **Javascript, Nodejs e Mongodb**
+- 💬 Me pergunte sobre **Nodejs, Go**
 
 - 📫 Entre em contato: **carlos.limalopes@outlook.com**
 
